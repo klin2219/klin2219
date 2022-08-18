@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Kevin. I am a junior at Georgia Tech, majoring in Computer Science, who has an interest in Software Engineering, Finance, and Entrepreneurship.
-- 👀 I’m interested in gaining experience through internships and developing software that will help make people's lives better. 
-- 🌱 I’m proficient in Java (its data structures and algorithms) and C++. I plan to familiarize myself with one or two more languages. 
-- 💞️ I’m looking to collaborate on projects/tasks that are for beginners/intermediates, and of course, want to meet more people.
-- 📫 Reach me at: Email - linkevin@gatech.edu | Phone - 954-798-6661
+Hey! I’m Kevin, a Computer Science major concentrating in Intelligence and Networks at Georgia Institute of Technology. I am currently searching for software development internships for Spring and Summer 2023.
+
+I’m proficient in Java (with its data structures and algorithms) and have previous project experience with C++, C, and some familiarity with Python, HTML, Docker, Git, etc. I am looking to learn new ideas and tools that will be useful in the industry and in a collaborative environment.
+
+Some of my personal interest and hobbies include basketball, badminton, and exploring Eurasia. I’m currently picking up an instrument and am trying to be fluent in Spanish.
+
+📫 Reach me at: Email - linkevin@gatech.edu | Phone - 954-798-6661
 
 <!---
 klin2219/klin2219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
