@@ -2,9 +2,9 @@ Hey! I’m Kevin, a Computer Science major concentrating in Intelligence and Net
 
 I’m proficient in Java (with its data structures and algorithms) and have previous project experience with C++, C, and some familiarity with Python, HTML, Docker, Git, etc. I am looking to learn new ideas and tools that will be useful in the industry and in a collaborative environment.
 
-Some of my personal interest and hobbies include basketball, badminton, and exploring Eurasia. I’m currently picking up an instrument and am trying to be fluent in Spanish.
+Please contact me if you're interested in working together!
 
-📫 Reach me at: Email - linkevin@gatech.edu | Phone - 954-798-6661
+📫 Reach me: Email - linkevin@gatech.edu | Phone - 954-798-6661
 
 <!---
 klin2219/klin2219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
